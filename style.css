@@ -1,0 +1,12 @@
+
+h1{
+ color:aqua;
+}
+*{
+    border:solid;
+   }
+.header{
+ background-color: rgb(255, 251, 0);
+ display:flex; 
+ justify-content:space-between;
+}
